@@ -10,6 +10,5 @@ Vendredi 9 mars 2018
     + [ClearMotion](http://www.clearmotion.com/) — Une belle créa mise en valeur par de chouettes animations !
     + [Suprême NTM](https://www.supreme-ntm.com/) — Dernière réalisation du studio Rezo Zéro (made in Lyon)
     
-- **Le bonus de la semaine**
-
+- **Le bonus de la semaine par Commit Strip**
 ![Amour propre de codeur](https://www.commitstrip.com/wp-content/uploads/2018/03/Strip-Jvais-le-faire-quand-m%C3%AAme-650-finalV2.jpg)

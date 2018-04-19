@@ -16,4 +16,5 @@ Vendredi 12 janvier 2018
     + [Drôle de Monsieur](https://droledemonsieur.com/)
     
 - **Le bonus de la semaine par Commit Strip**
+
 ![Nouvelle année, nouveaux frameworks ?](https://www.commitstrip.com/wp-content/uploads/2018/01/Strip-Les-bonnes-r%C3%A9solutions-650-final.jpg)
