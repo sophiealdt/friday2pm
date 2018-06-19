@@ -1,7 +1,7 @@
 Vendredi 23 mars 2018
 ===========================
 
-- **A lire cette semaine :**
+- **A lire cette semaine**
     + [Variable fonts](https://developer.microsoft.com/en-us/microsoft-edge/testdrive/demos/variable-fonts/) — Pour tout savoir sur l’utilisation des variable fonts
     + [V-fonts](https://v-fonts.com/) — Pour trouver et tester les variable fonts
     + [Super Mario World only with CSS](https://medium.com/@alcidesqueiroz/super-mario-world-in-css-100-css-no-javascript-no-embedded-images-data-uris-no-external-e43dc0c2b1f4) — CSS rocks !

@@ -1,7 +1,7 @@
 Vendredi 2 février 2018
 ===========================
 
-- **A lire cette semaine :** Plusieurs ressources sur les "CSS Grids"
+- **A lire cette semaine** Plusieurs ressources sur les "CSS Grids"
     + [Oh my Grids](https://ohmygrids.com/) — Une collection d'articles, vidéos et tutoriels
     + [Grid Examples](http://www.gridexamples.com/) — Liste de sites web basés sur CSS Grid Layout
     

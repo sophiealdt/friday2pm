@@ -1,7 +1,7 @@
 Vendredi 30 mars 2018
 ===========================
 
-- **A lire cette semaine :**
+- **A lire cette semaine**
     + [Sticky as a local fixed](https://css-tricks.com/sticky-as-a-local-fixed/) — Un bon exemple de l’utilisation de position: sticky
     + [Progressive Web Apps on iOS are here](https://medium.com/@firt/progressive-web-apps-on-ios-are-here-d00430dee3a7)
     + [Documenting Components – Serve a System’s Audiences with Well-Architected Content](https://medium.com/eightshapes-llc/documenting-components-9fe59b80c015)

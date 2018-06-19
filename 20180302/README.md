@@ -1,7 +1,7 @@
 Vendredi 2 mars 2018
 ===========================
 
-- **A lire cette semaine :**
+- **A lire cette semaine**
     + [Understanding Web Fonts and Getting the most out of them](https://css-tricks.com/understanding-web-fonts-getting/)
     + [Le format de typo Woff 2.0 est maintenant une recommandation du W3C](https://www.w3.org/blog/2018/03/woff-2-0-the-inside-scoop/)
     + [Le vaste monde des alternatives textuelles](https://www.lelutinduweb.fr/alternatives-textuelles/) — Série de 6 articles sur l’accessibilité et les alternatives textuelles

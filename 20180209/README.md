@@ -1,7 +1,7 @@
 Vendredi 16 février 2018
 ===========================
 
-- **A lire cette semaine :**
+- **A lire cette semaine**
     + [Direction Aware Hover Effects](https://css-tricks.com/direction-aware-hover-effects/) — De jolis effets de rollower basés sur la direction de la souris
     + [Vim for Front-end Developers](https://speakerdeck.com/csswizardry/vim-for-front-end-developers) — Slides from Harry Robert’s talk at Awwwards Berlin
     + [Microsoft mise aussi sur les Progressive Web Apps avec Edge et Windows 10](https://blogs.windows.com/msedgedev/2018/02/06/welcoming-progressive-web-apps-edge-windows-10/)

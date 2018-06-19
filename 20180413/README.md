@@ -1,7 +1,7 @@
 Vendredi 13 avril 2018
 ===========================
 
-- **A lire cette semaine :**
+- **A lire cette semaine**
     + [How browsers position floats](https://float-layout.glitch.me/) — Flex is not the new float
     + [13 noteworthy points from Google’s JavaScript style guide](https://medium.freecodecamp.org/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b)
     

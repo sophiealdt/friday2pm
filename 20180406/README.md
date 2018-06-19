@@ -1,7 +1,7 @@
 Vendredi 6 avril 2018
 ===========================
 
-- **A lire cette semaine :**
+- **A lire cette semaine**
     + [Braille Neue](http://brailleneue.com/) — Une typo qui associe caractères et braille
     + [CSS Grid Layout cheatsheet](https://www.alsacreations.com/xmedia/tools/grid-cheatsheet.pdf) — Pour ne plus jamais oublier les propriétés du module CSS Grid Layout
     + [Solar system explorer in CSS](https://codepen.io/jcoulterdesign/full/ZxXbeP/) — Le pouvoir du CSS

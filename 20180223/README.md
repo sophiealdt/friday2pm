@@ -1,7 +1,7 @@
 Vendredi 23 février 2018
 ===========================
 
-- **A lire cette semaine :**
+- **A lire cette semaine**
     + [Faire du tri dans un tableaux en pur CSS](http://kizu.ru/en/blog/variable-order/)
     + [Les meilleures agences / studio de l’année 2017 par CSS Design Awards](https://www.cssdesignawards.com/doty2017) — Pas mal de lyonnais cette année !
     + [Speaking with an accent](https://evilmartians.com/chronicles/speaking-with-an-accent) — Tips from Andrey Sitnik, lead front-end developer, creator of Autoprefixer and PostCSS

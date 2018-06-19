@@ -1,7 +1,7 @@
 Vendredi 16 février 2018
 ===========================
 
-- **A lire cette semaine :**
+- **A lire cette semaine**
     + [Your sketch library is not a design system redux](http://bradfrost.com/blog/post/your-sketch-library-is-not-a-design-system-redux/)
     + [SVG Backgrounds](https://www.svgbackgrounds.com/) — Patterns SVG customisables
     + [Let’s make multi-colored icons with SVG symbols and CSS variables](https://medium.freecodecamp.org/lets-make-your-svg-symbol-icons-multi-colored-with-css-variables-cddd1769fca4)
