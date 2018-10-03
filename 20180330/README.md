@@ -12,4 +12,5 @@ Vendredi 30 mars 2018
     + [Films Truck](https://www.filmtruck.co/) — C’est bon c’est assez gros ?!
     
 - **Le bonus de la semaine par Commit Strip**
+
 ![Le nouveau IE6](https://www.commitstrip.com/wp-content/uploads/2018/03/Strip-IE6-d%C3%A9mont%C3%A9-sur-sc%C3%A8ne-650-final.jpg)
