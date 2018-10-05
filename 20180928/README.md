@@ -8,7 +8,7 @@ Vendredi 28 septembre 2018
     
     + [ETQ Amsterdam](https://www.etq-amsterdam.com/) — J'aime beaucoup cet e-commerce très sobre, mais avec plein de petites interactions cool.
     
-- **Les sites de la semaine**    
+- **A lire cette semaine**    
     + Un article interessant sur le CSS modulaire : [https://spaceninja.com/2018/09/17/what-is-modular-css/](https://spaceninja.com/2018/09/17/what-is-modular-css/)
     + Uber présente son changement de charte graphique dans un case study : [https://www.uber.design/case-studies/rebrand-2018](https://www.uber.design/case-studies/rebrand-2018)
       
