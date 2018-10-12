@@ -11,4 +11,4 @@ Vendredi 12 octobre 2018
     + [Comment utiliser CSS Grid pour créer un composant de défilement horizontal](https://uxdesign.cc/creating-horizontal-scrolling-containers-the-right-way-css-grid-c256f64fc585)
     
 - **Le bonus de la semaine**
-    + C'est le buzz de la semaine, il y a évidemment quelqu'un a pensé à coder [le destructeur d'œuvres d'art façon Banksy](https://codepen.io/leemartin/pen/pxNvod)
+    + C'est le buzz de la semaine, il y a évidemment quelqu'un qui a pensé à coder [le destructeur d'œuvres d'art façon Banksy](https://codepen.io/leemartin/pen/pxNvod)
