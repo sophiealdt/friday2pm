@@ -3,13 +3,11 @@ Vendredi 30 novembre 2018
 
 - **Les sites de la semaine**
     + **[L'Elysée](https://www.elysee.fr/)**  
-    
     Le nouveau site de la Présidence de la République est en ligne depuis cette semaine.  
     Un bel exemple d'accessibilité sur toutes les phases du projet :  
     _« L'audit du site elysee.fr a été réalisé en continu pendant le projet : dès sa phase de conception graphique jusqu'à son développement, afin d'apporter immédiatement les éventuelles corrections et garantir le plus haut niveau d'exigence. »_
 
     + **[Oh Crap! It's christmas](https://www.aceandtate.com/oh-CRAP/)**  
-    
     Drôle de page pour acheter des cartes cadeaux ! Mais bien pratique si c'est la panique avant Noël 😊
       
 - **A lire cette semaine**

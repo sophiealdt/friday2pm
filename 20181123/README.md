@@ -3,7 +3,6 @@ Vendredi 23 novembre 2018
 
 - **Les sites de la semaine**
     + **[Awwwards Conference](https://conference.awwwards.com/)**  
-    
     Ce n'est pas un site trouvé sur Awwwards, c'est un site made by Awwwards.  
     Les illustrations interactives sont magnifiques !    
       

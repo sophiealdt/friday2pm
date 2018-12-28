@@ -2,12 +2,10 @@ Vendredi 7 décembre 2018
 ===========================
 
 - **Les sites de la semaine**
-    + **[Christmas XP](https://christmasexperiments.com/)**  
-    
+    + **[Christmas XP](https://christmasexperiments.com/)**    
     Le Xmas XP calendar revient cette année avec encore plus de WebGL.
 
     + **[Studio Job](https://www.studio-job.com/)**  
-    
     Peut-être le site e-commerce le plus wtf de l''année. Bourré d'interactivité et de détails subtils (ou pas).  
     Sur desktop, essayez de redimensionner votre fenêtre 😉
       

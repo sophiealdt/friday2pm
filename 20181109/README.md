@@ -3,12 +3,10 @@ Vendredi 9 novembre 2018
 
 - **Les sites de la semaine**
     + **[Grow Paris](https://www.grow.paris/)**  
-    
     Grow Paris est un rendez-vous parisiens dédié au "code créatif".  
     On peut dire que cette page d'accueil est plutôt déconcertante ! Amusez vous à déplacer les mots !
-    
+
     + **[VirtOcean](http://virtocean.com/)**  
-    
     Ça ne sert pas à grand chose, mais les vagues sont super bien faites !
       
 - **A lire cette semaine**

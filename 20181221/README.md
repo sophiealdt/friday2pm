@@ -3,11 +3,11 @@ Vendredi 21 décembre 2018
 
 - **Les sites de la semaine**
     + **[Votre année en musique avec Spotify](https://spotifywrapped.com/fr/)**  
-        Comme tous les ans, retrouvez le récap de votre année en musique. Le principe est top, et le site encore plus avec tous ces effets de couleur et de typo !   
-        Quel artiste ou groupe avez vous écouté le plus ? De mon côté, j'ai écouté pendant 13h Queen, et c'est pas près de s'arrêter !
+    Comme tous les ans, retrouvez le récap de votre année en musique. Le principe est top, et le site encore plus avec tous ces effets de couleur et de typo !   
+    Quel artiste ou groupe avez vous écouté le plus ? De mon côté, j'ai écouté pendant 13h Queen, et c'est pas près de s'arrêter !
    
    + **[Sneaky Santa](https://2018.14islands.com/)**  
-        Le Père Noël a piqué tous les cadeaux, pour les récupérer, secouez le !  
+   Le Père Noël a piqué tous les cadeaux, pour les récupérer, secouez le !  
    
 - **A lire cette semaine**
     + [Le case study du site Spotify Wrapped réalisé par l'agence Active Theory](https://medium.com/@activetheory/spotify-wrapped-2018-technical-case-study-5b7cfb7e9d3a)

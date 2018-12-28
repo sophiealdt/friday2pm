@@ -3,11 +3,9 @@ Vendredi 16 novembre 2018
 
 - **Les sites de la semaine**
     + **[Le Visage Inconnu](https://theunknownface.com/fr/)**  
-    
     Pour sensibiliser au devoir de mémoire, l'Historial de la Grande Guerre a sorti un très beau site pour donner un visage au soldat inconnu à partir de milliers de visages. 
     
     + **[Plasticbionic - Design studio](http://www.plasticbionic.com/)**  
-    
     Une créa bien cool et plein d'animations
       
 - **Une vidéo intéressante**  

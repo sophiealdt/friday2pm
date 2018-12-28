@@ -3,7 +3,6 @@ Vendredi 14 décembre 2018
 
 - **Les sites de la semaine**
     + **[Bandito](https://www.imabandi.to/)**  
-    
     Une experience musicale immersive de folie pour découvrir une très belle chanson.  
     Trouverez-vous tous les symboles ? (j'en ai trouvé qu'un seul...)
    
