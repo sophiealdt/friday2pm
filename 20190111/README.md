@@ -9,7 +9,7 @@ Vendredi 11 janvier 2019
    + **[Cure - Unique nails](https://curenails.co/)**  
     Design élégant et animations fluides qui chargent rapidement même sur mobile.
 
-- **A lire cette semaine :**
+- **A lire cette semaine**
     + [8 Vue.js UI Component for 2019](https://medium.com/swlh/8-vue-js-ui-component-for-2019-79fc43d6da79)
     + [CSS Grid expliquées aux designers](https://open.nytimes.com/css-grid-for-designers-f74a883b98f5)
     + [CSS doesn't suck](https://andy-bell.design/wrote/css-doesnt-suck/)

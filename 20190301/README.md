@@ -6,7 +6,7 @@ Vendredi 1er mars 2019
     Un chifoumi en ligne pour jouer à distance, avec un joli design et des animations rigolotes. 
 
     
-- **A lire cette semaine :**
+- **A lire cette semaine**
     + [Un jeu pour tester ces connaissances en sélecteurs CSS](https://frontend30.com/css-selectors-cheatsheet/)  
     + [Un article pas récent mais toujours aussi interessant, pour quand on affiche du texte sur une image](https://css-tricks.com/methods-contrasting-text-backgrounds/)
     + [Le CSS peut être bluffant, la preuve avec cet environnent 3D créé en CSS](https://keithclark.co.uk/labs/css-fps/nojs/)

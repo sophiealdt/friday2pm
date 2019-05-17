@@ -9,7 +9,7 @@ Vendredi 25 janvier 2019
     Beaucoup de jolies petites interactions dans ce site de voyage. Les plus : le rollover du menu et le footer dans les nuages.  
     Ça donne envie de faire l'Antarctique à la voile.
 
-- **A lire cette semaine :**
+- **A lire cette semaine**
     + [The Great Divide - Two front-end developers are sitting at a bar...](https://css-tricks.com/the-great-divide/)  
         « We should split into UX Engineers and JavaScript Engineers. »  
         « Most people are not amazing at both JavaScript and CSS. »

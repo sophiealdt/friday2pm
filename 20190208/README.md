@@ -5,7 +5,7 @@ Vendredi 8 février 2019
    + **[Experience Nomadic Tribe](https://2019.makemepulse.com/)**  
     Joli site en hommage à l'auteur de BD Moebius. L'expérience est très poétique.  
 
-- **A lire cette semaine :**
+- **A lire cette semaine**
     + [Rappel sur l'élément html _figure_](https://www.scottohara.me/blog/2019/01/21/how-do-you-figure.html)  
     + [A guide to CSS support in browser](https://www.smashingmagazine.com/2019/02/css-browser-support/ )
     

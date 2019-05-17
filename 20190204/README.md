@@ -5,7 +5,7 @@ Lundi 4 février 2019
    + **[Let the World Sleep - Kiramura Makura](https://www.kitamura1923.com/)**  
     Un beau mélange entre design moderne et valeurs anciennes. Je crois que je vais changer de coussins.
 
-- **A lire cette semaine :**
+- **A lire cette semaine**
     + [CSS Position Sticky](https://medium.com/@elad/css-position-sticky-how-it-really-works-54cd01dc2d46)  
     + [CSS font-display et le chargement des typos sur le web](https://www.alsacreations.com/article/lire/1779-CSS-font-display-et-le-chargement-des-polices-web.html)
     + [Smooth scrolling links only with CSS](https://gomakethings.com/smooth-scrolling-links-with-only-css/)

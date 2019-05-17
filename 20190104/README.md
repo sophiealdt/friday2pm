@@ -8,7 +8,7 @@ Vendredi 4 janvier 2019
    + **[Meet the 360 mirror](https://www.my360mirror.com/)**  
    L'animation a été créée pour servir le produit lui-même (un double miroir 360°) et faire découvrir ses spécificités.
 
-- **A lire cette semaine :**
+- **A lire cette semaine**
     + [CSS] [Multi-line inline gradient en CSS, et oui c'est possible !](https://css-tricks.com/multi-line-inline-gradient/)
     + [CSS] [Bordures dégradées en CSS](https://css-tricks.com/gradient-borders-in-css/)
     
